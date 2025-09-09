@@ -2,6 +2,8 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
+Live :- https://vibe-chatapp-ahn5.onrender.com
+
 
 
 Highlights:
